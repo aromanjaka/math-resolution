@@ -1,2 +1,3 @@
 # math-resolution
-Résolution et calcul d'aire d'une fonction mathématique
+Calculer l'aire entre deux bornes d'une fonction.
+Resoudre une fonction avec des methodes différentes.
